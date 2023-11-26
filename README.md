@@ -1,5 +1,6 @@
 # VxTerm
-github无法正常更新，最新版本请访问：
+github无法正常更新，早就不在github上更新。
+最新版本请访问：
 https://blog.forbs.cn/post/111.html
 
 #### 介绍
