@@ -1,6 +1,6 @@
 # VxTerm
 github无法正常更新，最新版本请访问：
-[[http://](https://blog.forbs.cn/post/111.html)](https://blog.forbs.cn/post/111.html)
+https://blog.forbs.cn/post/111.html
 
 #### 介绍
 VxTerm，Telnet、SSH、MUD远程终端仿真工具
